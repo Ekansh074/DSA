@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ekansh074/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ekansh074/DSA/tree/master/0238-product-of-array-except-self) |
 | [1534-count-good-triplets](https://github.com/Ekansh074/DSA/tree/master/1534-count-good-triplets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ekansh074/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2951-find-the-peaks](https://github.com/Ekansh074/DSA/tree/master/2951-find-the-peaks) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ekansh074/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ekansh074/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
