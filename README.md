@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/Ekansh074/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ekansh074/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Ekansh074/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ekansh074/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Ekansh074/DSA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Ekansh074/DSA/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/Ekansh074/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ekansh074/DSA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Ekansh074/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ekansh074/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Ekansh074/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ekansh074/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
