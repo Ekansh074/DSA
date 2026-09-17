@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ekansh074/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ekansh074/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ekansh074/DSA/tree/master/0238-product-of-array-except-self) |
+| [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
 | [1534-count-good-triplets](https://github.com/Ekansh074/DSA/tree/master/1534-count-good-triplets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ekansh074/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ekansh074/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -136,4 +137,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ekansh074/DSA/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
