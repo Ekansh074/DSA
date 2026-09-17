@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ekansh074/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Ekansh074/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ekansh074/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Ekansh074/DSA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Ekansh074/DSA/tree/master/0844-backspace-string-compare) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Ekansh074/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ekansh074/DSA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Ekansh074/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ekansh074/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
