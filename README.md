@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ekansh074/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ekansh074/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ekansh074/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1534-count-good-triplets](https://github.com/Ekansh074/DSA/tree/master/1534-count-good-triplets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ekansh074/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ekansh074/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ekansh074/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ekansh074/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Enumeration
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ekansh074/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ekansh074/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ekansh074/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ekansh074/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
