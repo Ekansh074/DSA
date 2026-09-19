@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ekansh074/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Ekansh074/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ekansh074/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Ekansh074/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ekansh074/DSA/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ekansh074/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ekansh074/DSA/tree/master/0658-find-k-closest-elements) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ekansh074/DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ekansh074/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ekansh074/DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Ekansh074/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Ekansh074/DSA/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
