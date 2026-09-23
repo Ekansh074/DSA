@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ekansh074/DSA/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Ekansh074/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ekansh074/DSA/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/Ekansh074/DSA/tree/master/0441-arranging-coins) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ekansh074/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ekansh074/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ekansh074/DSA/tree/master/0205-isomorphic-strings) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ekansh074/DSA/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/Ekansh074/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ekansh074/DSA/tree/master/0217-contains-duplicate) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ekansh074/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
