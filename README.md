@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ekansh074/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ekansh074/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1534-count-good-triplets](https://github.com/Ekansh074/DSA/tree/master/1534-count-good-triplets) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Ekansh074/DSA/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ekansh074/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ekansh074/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ekansh074/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ekansh074/DSA/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/Ekansh074/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ekansh074/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Ekansh074/DSA/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ekansh074/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ekansh074/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Graph Theory
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ekansh074/DSA/tree/master/0658-find-k-closest-elements) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Ekansh074/DSA/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
