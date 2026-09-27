@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Ekansh074/DSA/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ekansh074/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ekansh074/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ekansh074/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ekansh074/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2951-find-the-peaks](https://github.com/Ekansh074/DSA/tree/master/2951-find-the-peaks) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ekansh074/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Ekansh074/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ekansh074/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Ekansh074/DSA/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ekansh074/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ekansh074/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ekansh074/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Graph Theory
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ekansh074/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ekansh074/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ekansh074/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ekansh074/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ekansh074/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Enumeration
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ekansh074/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/Ekansh074/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ekansh074/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ekansh074/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Prefix Sum
 |  |
 | ------- |
