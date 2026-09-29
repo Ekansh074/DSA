@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ekansh074/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ekansh074/DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ekansh074/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/Ekansh074/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/Ekansh074/DSA/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ekansh074/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ekansh074/DSA/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/Ekansh074/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ekansh074/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ekansh074/DSA/tree/master/0877-stone-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Ekansh074/DSA/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ekansh074/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ekansh074/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -238,4 +240,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ekansh074/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ekansh074/DSA/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ekansh074/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ekansh074/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ekansh074/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
