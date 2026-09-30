@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ekansh074/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ekansh074/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ekansh074/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ekansh074/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh074/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ekansh074/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ekansh074/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ekansh074/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh074/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ekansh074/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ekansh074/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ekansh074/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ekansh074/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh074/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ekansh074/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ekansh074/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Ekansh074/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ekansh074/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ekansh074/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0441-arranging-coins](https://github.com/Ekansh074/DSA/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/Ekansh074/DSA/tree/master/0658-find-k-closest-elements) |
