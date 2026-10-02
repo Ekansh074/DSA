@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ekansh074/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1534-count-good-triplets](https://github.com/Ekansh074/DSA/tree/master/1534-count-good-triplets) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Ekansh074/DSA/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1861-rotating-the-box](https://github.com/Ekansh074/DSA/tree/master/1861-rotating-the-box) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ekansh074/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ekansh074/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ekansh074/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ekansh074/DSA/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Ekansh074/DSA/tree/master/0844-backspace-string-compare) |
 | [1089-duplicate-zeros](https://github.com/Ekansh074/DSA/tree/master/1089-duplicate-zeros) |
+| [1861-rotating-the-box](https://github.com/Ekansh074/DSA/tree/master/1861-rotating-the-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Ekansh074/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ekansh074/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ekansh074/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ekansh074/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ekansh074/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1861-rotating-the-box](https://github.com/Ekansh074/DSA/tree/master/1861-rotating-the-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ekansh074/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ekansh074/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Enumeration
