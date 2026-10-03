@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ekansh074/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ekansh074/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ekansh074/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ekansh074/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ekansh074/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ekansh074/DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ekansh074/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ekansh074/DSA/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ekansh074/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ekansh074/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ekansh074/DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Ekansh074/DSA/tree/master/0912-sort-an-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ekansh074/DSA/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/Ekansh074/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ekansh074/DSA/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ekansh074/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ekansh074/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
