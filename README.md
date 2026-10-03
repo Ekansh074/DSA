@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ekansh074/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ekansh074/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ekansh074/DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Ekansh074/DSA/tree/master/0344-reverse-string) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ekansh074/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ekansh074/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0877-stone-game](https://github.com/Ekansh074/DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
