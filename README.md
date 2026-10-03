@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ekansh074/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Ekansh074/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/Ekansh074/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Ekansh074/DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Ekansh074/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ekansh074/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ekansh074/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ekansh074/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0198-house-robber](https://github.com/Ekansh074/DSA/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/Ekansh074/DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
