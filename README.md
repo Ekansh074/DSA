@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ekansh074/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/Ekansh074/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Ekansh074/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Ekansh074/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Ekansh074/DSA/tree/master/0844-backspace-string-compare) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ekansh074/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ekansh074/DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Ekansh074/DSA/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Ekansh074/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Ekansh074/DSA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/Ekansh074/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Ekansh074/DSA/tree/master/0844-backspace-string-compare) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Ekansh074/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Ekansh074/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh074/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ekansh074/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -294,5 +297,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Ekansh074/DSA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Ekansh074/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
