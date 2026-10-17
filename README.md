@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Ekansh074/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ekansh074/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ekansh074/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2810-faulty-keyboard](https://github.com/Ekansh074/DSA/tree/master/2810-faulty-keyboard) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ekansh074/DSA/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Ekansh074/DSA/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ekansh074/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2810-faulty-keyboard](https://github.com/Ekansh074/DSA/tree/master/2810-faulty-keyboard) |
 ## Bracket Sequences
 |  |
 | ------- |
