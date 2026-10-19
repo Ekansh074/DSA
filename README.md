@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ekansh074/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Ekansh074/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Ekansh074/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ekansh074/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Ekansh074/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ekansh074/DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Ekansh074/DSA/tree/master/0217-contains-duplicate) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ekansh074/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ekansh074/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ekansh074/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Ekansh074/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ekansh074/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ekansh074/DSA/tree/master/0240-search-a-2d-matrix-ii) |
