@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ekansh074/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2951-find-the-peaks](https://github.com/Ekansh074/DSA/tree/master/2951-find-the-peaks) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ekansh074/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ekansh074/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3731-find-missing-elements](https://github.com/Ekansh074/DSA/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ekansh074/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
